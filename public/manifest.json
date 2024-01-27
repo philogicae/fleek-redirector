@@ -1,0 +1,16 @@
+{
+  "short_name": "Fleek Redirector",
+  "name": "Fleek Redirector",
+  "description": "Redirect from one Fleek website to another",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#000000",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "32x32",
+      "type": "image/x-icon"
+    }
+  ]
+}
