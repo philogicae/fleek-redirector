@@ -16,7 +16,7 @@ export default function Home() {
   return (
     <main className="flex flex-col w-full h-full items-center justify-center">
       <FaCircleNotch className="mb-6 text-6xl animate-spin" />
-      <span className="mb-2 text-2xl font-bold">Fleek Redirecting to:</span>
+      <span className="mb-2 text-2xl font-bold">Fleek redirection to:</span>
       <a className="text-xl font-bold text-cyan-500 hover:underline" href={url}>
         {url}
       </a>
